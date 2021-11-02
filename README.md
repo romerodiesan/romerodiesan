@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Diesan Romero.
+My name is Diesan Romero. I am the owner and full colaborator of [@kemus-labs](https://github.com/kemus-labs)
 
 I have experience in various programming paradigms and design patterns. I use programming languages like Javascript and Python. My best skills are in backend development but open to new adventures.
 

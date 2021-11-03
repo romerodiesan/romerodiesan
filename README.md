@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Diesan Romero. I am the owner and full colaborator of [@kemus-labs](https://github.com/kemus-labs)
+My name is Diesan Romero.
 
 I have experience in various programming paradigms and design patterns. I use programming languages like Javascript and Python. My best skills are in backend development but open to new adventures.
 
@@ -13,7 +13,11 @@ I like to learn and not give up when facing unimaginable challenges from day to 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=romerodiesan&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romerodiesan&theme=dark)](https://github.com/c-vefra/github-readme-stats)
 
-Check my [Gists](https://gist.github.com/romerodiesan) and my [Kemus Labs Contributions](https://github.com/kemus-labs)
+
+## Frequent Collaborations
+
+- [Kemus Labs](https://github.com/kemus-labs)
+
 
 ## Conect with me
 

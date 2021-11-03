@@ -14,10 +14,13 @@ I like to learn and not give up when facing unimaginable challenges from day to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romerodiesan&theme=dark)](https://github.com/c-vefra/github-readme-stats)
 
 
+## Do not forget myself how to
+
+- Render Markdown Math: <img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
+
 ## Frequent Collaborations
 
 - [Kemus Labs](https://github.com/kemus-labs)
-
 
 ## Conect with me
 

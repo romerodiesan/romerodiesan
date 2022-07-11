@@ -24,6 +24,5 @@ I like to learn and not give up when facing unimaginable challenges from day to 
 
 ## Conect with me
 
-- [Facebook](https://www.facebook.com/diesanromero)
 - [Twitter](https://twitter.com/diesanromero)
 - [Linkedin](https://www.linkedin.com/in/diesan-x-romero)
